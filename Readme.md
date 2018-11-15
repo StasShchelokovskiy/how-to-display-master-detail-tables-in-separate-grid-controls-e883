@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q205299/Form1.cs) (VB: [Form1.Designer.vb](./VB/Q205299/Form1.Designer.vb))
+* [Form1.Designer.cs](./CS/Q205299/Form1.Designer.cs) (VB: [Form1.Designer.vb](./VB/Q205299/Form1.Designer.vb))
+<!-- default file list end -->
 # How to Display Master-Detail Tables in Separate Grid Controls
 
 
